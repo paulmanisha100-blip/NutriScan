@@ -280,6 +280,6 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 ---
 
 <div align="center">
-  Built with 💻 and ☕ by <strong>Jit Halder</strong>
+  Built with 💻 and ☕ by <strong>Manisha Paul</strong>
 </div>
 
